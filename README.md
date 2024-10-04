@@ -12,9 +12,6 @@
 ├── pyproject.toml
 └── service
     ├── __init__.py
-    ├── __pycache__
-    │   ├── __init__.cpython-312.pyc
-    │   └── routes.cpython-312.pyc
     ├── common
     │   ├── __init__.py
     │   ├── cli_commands.py
